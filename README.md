@@ -1,1 +1,3 @@
 # Python-Challenge
+I enjoyed this challenge more than the VBA because it was easier to get the script togther. I always try to look into the challenge and class material before class in order to get myself better aquantied and little ahead, so I don't fall behind. I did ask AI on the portal for help on how to import/read from the csv file so  I can start putting the script togther and for some enhancment on outputting in a txt file. PyBank was easier than Pypoll. I did use Jupiter lab as my editor, I also worked on Jupiter notebook and pycharm and my terminal just to get more practice and better understanding on different editors.
+
