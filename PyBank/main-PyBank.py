@@ -50,7 +50,8 @@ with open(budget_data, newline="") as csvfile:
     print(f"Greatest Decrease in Profits: {months[revenue_change.index(greatest_decrease) + 1]} (${greatest_decrease})")
 
     # Output to a text file
-    with open("Users/yara/Resources/PyBank.txt", "w") as file:
+   
+    with open("/Users/yara/desktop/Python-Challenge/PyBank/analysis/PyBank.txt", "w") as file:
         file.write("Financial Analysis\n")
         file.write("....................................................................................\n")
         file.write(f"Total Months: {total_months}\n")

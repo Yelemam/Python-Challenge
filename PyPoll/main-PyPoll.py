@@ -46,7 +46,7 @@ with open(election_data, newline="") as csvfile:
     print("----------------------------")
 
 # Output to txt file
-    with open('/Users/yara/Resources/PyBank.txt', 'w') as output_file:
+    with open('/users/yara/desktop/Python-Challenge/PyPoll/Analysis/PyPoll.txt', 'w') as output_file:
         output_file.write("Election Results\n")
         output_file.write("----------------------------\n")
         output_file.write(f"Total Votes: {total_votes}\n")
