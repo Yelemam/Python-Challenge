@@ -1,3 +1,27 @@
 # Python-Challenge
-I enjoyed this challenge more than the VBA because it was easier to get the script togther. I always try to look into the challenge and class material before class in order to get myself better aquantied and little ahead, so I don't fall behind. I did ask AI on the portal for help on how to import/read from the csv file so  I can start putting the script togther and for some enhancment on outputting in a txt file. PyBank was easier than Pypoll. I did use Jupiter lab as my editor, I also worked on Jupiter notebook and pycharm and my terminal just to get more practice and better understanding on different editors.
+# Overview
+Welcome to the Python Challenge repository! This project contains two main Python challenges: PyBank and PyPoll. Each directory houses a separate challenge that applies Python scripting to solve real-world problems using data analytics.
+
+# Challenges
+**PyBank**
+In the PyBank challenge, I'll create a Python script to analyze financial records. Using data from budget_data.csv, the script will compute:
+
+- Total number of months in the dataset
+- Net total amount of "Profit/Losses" over the period
+- Changes in "Profit/Losses" over the period, and the average of those changes
+- Greatest increase in profits (date and amount) over the period
+- Greatest decrease in profits (date and amount) over the period
+
+
+**PyPoll**
+For the PyPoll challenge, you'll help a small town modernize its vote-counting process. Using election_data.csv, the script will determine:
+
+- Total number of votes cast
+- Complete list of candidates who received votes
+- Percentage of votes and total number of votes each candidate won
+- Winner of the election based on popular vote
+
+# Technologies Used
+- Python
+- CSV file handling
 
